@@ -9,9 +9,9 @@ const ProductComponent = () => {
             <div className='ui link cards'>
                 <div className='card'>
                     <div className='image'>
-                        <div className='content'>
-                            <div className='header'>{title}</div>
-                        </div>
+                    </div>
+                    <div className='content'>
+                        <div className='header'>{title}</div>
                     </div>
                 </div>
             </div>
